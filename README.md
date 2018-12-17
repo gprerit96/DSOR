@@ -1,2 +1,2 @@
 # DSOR
-This repository contains my codes for assignments given the Data Structures &amp; Object Represnetation course offered in the Autumn Semester 2018.
+This repository contains my codes for assignments given the Data Structures &amp; Object Representation course offered in the Autumn Semester 2018.
